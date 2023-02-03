@@ -2,7 +2,7 @@
 '''
 todos los shp tienen que corregirse geometricamnete
 '''
-#capas del caanvas
+#capas del canvas
 epsg = 32718
 capa_puntos = ['ANN_HU', 'ANN_TG_MZ_URB', 'ANN_TG_LT_URB' ]
 capa_poligonos = ['TG_HU', 'TG_MZ_URB', 'TG_LT_URB']
@@ -10,7 +10,7 @@ capa_poligonos = ['TG_HU', 'TG_MZ_URB', 'TG_LT_URB']
 csv = 'rentas'
 id_csv = 'ID_LOTE_URB'
 # salidas
-salida_carpeta = r'C:\Users\user\Desktop\m'
+salida_carpeta = r'C:\Users\user\Desktop\resultados'
 # Las id de cada campo
 txt = 'Text_'
 # expresion
